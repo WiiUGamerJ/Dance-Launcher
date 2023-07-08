@@ -1,4 +1,4 @@
-( # THIS PAGE IS NOT FINISHED!)
+# THIS PAGE IS NOT FINISHED!
 
 # GoDance
 Create your own Dance maps (inspired in Ubisoft's **Just Dance** game) and dance games effortlessly. Add videos, images, and unleash your creativity in an easy and intuitive way.
