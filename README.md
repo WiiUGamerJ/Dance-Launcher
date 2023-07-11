@@ -15,4 +15,4 @@ You can entirely customize anything you want, but there are some important thing
 </details>
 
 # Launch date
-### 6 of August
+### The GoDance Engine files will be available at 6 of August
