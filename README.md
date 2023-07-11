@@ -14,3 +14,5 @@ You can entirely customize anything you want, but there are some important thing
 2) You have to put this in the title screen: "This fangame uses the "GoDance Engine" made by WiiUGamerJ available at GitHub"
 </details>
 
+# Launch date
+### 6 of August
