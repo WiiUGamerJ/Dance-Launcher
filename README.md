@@ -3,7 +3,7 @@
 # GoDance
 Create your own Dance maps (inspired in Ubisoft's **Just Dance** game) and dance games effortlessly. Add videos, images, and unleash your creativity in an easy and intuitive way.
 
-![GoDance banner](https://repository-images.githubusercontent.com/663677788/baa513e0-b96e-44ed-97d4-f248eaf19e34)
+![GoDance banner](https://raw.githubusercontent.com/WiiUGamerJ/GoDance/main/GoDance%20banner%20short.png)
 # Description
 The GoDance Engine is a game engine made in godot for making dancing games inspired in Ubisoft's **Just Dance** game. Add your own assets and video for adding the songs. Use the available game modes or just delete them. Customize the menu and titlescreen or just anything you want. Use Godot 4 for using and editing the engine.
 
