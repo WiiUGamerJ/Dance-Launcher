@@ -16,4 +16,4 @@ You can entirely customize anything you want, but there are some important thing
 </details>
 
 # Launch date
-### The GoDance Engine files will be available at 6 of August.
+### There is no ETA available for the launch date and files of the GoDance Engine.
