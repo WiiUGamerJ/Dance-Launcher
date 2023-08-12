@@ -1,19 +1,11 @@
 # THIS PAGE IS NOT FINISHED!
 
-# GoDance
-Create your own dance games effortlessly. Add videos, images, and unleash your creativity in an easy and intuitive way.
+# Dance Launcher
+Create your own dance games effortlessly with the available templates, or just play available downloadable mods! (mods not included)
 
-![GoDance banner](https://raw.githubusercontent.com/WiiUGamerJ/GoDance/main/GoDance%20banner%20short.png)
+![GoDance banner]([https://raw.githubusercontent.com/WiiUGamerJ/GoDance/main/GoDance%20banner%20short.png](https://github.com/WiiUGamerJ/Dance-Launcher/blob/main/Dance%20Launcher%20banner%20short.png?raw=true))
 # Description
-The GoDance Engine is a game engine made in godot for making dancing games inspired in Ubisoft's **Just Dance** game. Add your own assets and video for adding the songs. Use the available game modes or just delete them. Customize the menu and titlescreen or just anything you want. Use Godot 4 for using and editing the engine.
-
-# Using guidelines
-<details> <summary> Brand guidelines <b>(click to open)</b> </summary>
-You can entirely customize anything you want, but there are some important things you always have to keep.
-
-1) Behind the title name, it has to be a subtitle saying "Made with the GoDance Engine" that is visible enough to be readable for the user.
-2) You have to put this in the title screen: "This fangame uses the "GoDance Engine" made by WiiUGamerJ available at GitHub"
-</details>
+Dance-Launcher is a program for PC that loads Dance mods (dance games) with the templates and documentation available. Make your own mod: add your own assets and video for adding the songs and other things...
 
 # Launch date
 ### There is no ETA available for the launch date and files of the Dance Launcher.
