@@ -1,7 +1,7 @@
 # THIS PAGE IS NOT FINISHED!
 
 # GoDance
-Create your own Dance maps (inspired in Ubisoft's **Just Dance** game) and dance games effortlessly. Add videos, images, and unleash your creativity in an easy and intuitive way.
+Create your own dance games effortlessly. Add videos, images, and unleash your creativity in an easy and intuitive way.
 
 ![GoDance banner](https://raw.githubusercontent.com/WiiUGamerJ/GoDance/main/GoDance%20banner%20short.png)
 # Description
@@ -16,4 +16,4 @@ You can entirely customize anything you want, but there are some important thing
 </details>
 
 # Launch date
-### There is no ETA available for the launch date and files of the GoDance Engine.
+### There is no ETA available for the launch date and files of the Dance Launcher.
